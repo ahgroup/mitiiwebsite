@@ -38,13 +38,4 @@
     url = "/pages/resources/"
     weight = 60
 
-[[main]]
-    name = "Opportunities"
-    url = "/pages/opportunities/"
-    weight = 70
-
-[[main]]
-    name = "Affiliations"
-    url = "/pages/affiliations/"
-    weight = 80
 

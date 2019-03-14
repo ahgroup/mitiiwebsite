@@ -1,7 +1,7 @@
 ---
 title: Website update
 author: Andreas Handel
-date: '2019-02-09'
+date: '2019-03-19'
 slug: website-update
 categories: []
 tags: []
@@ -10,4 +10,5 @@ image:
   focal_point: ''
 ---
 
-As part of the switch to Hugo, I finally managed to update the website with some new content! 
+We switched the website from Wordpress to Hugo, and updated the layout and content.
+
