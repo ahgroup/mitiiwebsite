@@ -12,7 +12,7 @@
     name = "People"
     identifier = "people"
     url = "#people"
-    weight = 45
+    weight = 15
 
 [[main]]
     name = "Projects"
@@ -30,7 +30,7 @@
     name = "News"
     identifier = "posts"
     url = "#posts"
-    weight = 10
+    weight = 70
 
 [[main]]
     name = "Resources"
