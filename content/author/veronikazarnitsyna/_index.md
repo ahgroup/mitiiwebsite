@@ -1,15 +1,15 @@
 +++
 # Display name
-name = "Veronika Zarnitsyna"
+name = "Rustom Antia"
 
 # Username (this should match the folder name)
-authors = ["veronikazarnitsyna"]
+authors = ["rustomantia"]
 
 # Is this the primary user of the site?
 superuser = false
 
 # Role/position
-role = "Member"
+role = "Center Co-director"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
