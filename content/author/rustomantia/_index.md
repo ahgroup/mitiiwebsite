@@ -26,8 +26,14 @@ user_groups = ["Members"]
   icon_pack = "fas"
   link = "http://www.biology.emory.edu/Antia/"
 
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=sVkaHRIAAAAJ&hl=en"
 
 +++
 
 
-This is the webpage for Rustom
+This is the webpage for Veronika
+
+
